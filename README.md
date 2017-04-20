@@ -1,4 +1,4 @@
-Poole Bootstrap
+sonicrim.org is built here
 =================
 
-A minimal template to get started with Jekyll and Poole.
+static jekyll
